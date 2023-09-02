@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Oahu 5-0 Volleyball Tournament"
+date: 2023-07-07
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Volleyball
+  - 5-0
+summary: "Winning the 5-0 volleyball tournament."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
