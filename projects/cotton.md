@@ -4,7 +4,7 @@ type: project
 image: img/cotton/cotton-square.png
 title: "Oahu 5-0 Volleyball Tournament"
 date: 2023-07-07
-published: true
+published: false
 labels:
   - Volleyball
   - 5-0
