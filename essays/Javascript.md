@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+
 
   Javascript so far seems very convenient and easy to use, especially when compared to Java. It makes a lot of sense to me and the rules, syntax, keywords and other things are easy to understand. Javascript is similar to C++ in a way where the setup for projects you want to complete is relatively simple and brief. It is a very straightforward programming language and it gets me to what I want to do faster. However, I could see that maybe if you were coding a really big project you could really lose your place in Javascript. It feels like there might not be as much structure with coding in Javascript, as in using modules of code that ultimately work together to complete a task. In the end, I enjoy using Javascript and I believe it is mainly used to handle websites which makes me eager to learn more about it and use it for both fun and serious projects to filter or process data online for my use.
 	
