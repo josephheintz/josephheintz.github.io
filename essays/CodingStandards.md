@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on Smart Questions"
+title: "Reflection on Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-22
 published: true
