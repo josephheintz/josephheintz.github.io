@@ -8,7 +8,6 @@ published: true
 labels:
   - Software Engineering
   - Javascript
-  - IntelliJ
 ---
 
 
