@@ -20,4 +20,3 @@ Configuration Management
 Functional Programming
 
 Agile Project Management
-
