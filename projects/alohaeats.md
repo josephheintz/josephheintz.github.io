@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/alohaeats/alohaEats.png
+image: img/aloha-eats/alohaEats.png
 title: "Aloha Eats Project"
 date: 2023
 published: true
