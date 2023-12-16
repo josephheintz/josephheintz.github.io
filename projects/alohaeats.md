@@ -12,7 +12,7 @@ labels:
 summary: "Creating a web application for students and food vendors on UH Manoa campus."
 ---
 
-<img class="img-fluid" src="../img/alohaeats/alohaEats.png" alt="no img found">
+<img class="img-fluid" src="../img/alohaeats/alohaEats.png">
 
 ## Overview
 
@@ -33,6 +33,6 @@ I learned a bunch of different things from this project. I learned how to use Me
 
 ### Screenshots
 
-<img class="img-fluid" src="../img/alohaeats/availableNow.png" alt="no img found">
-<img class="img-fluid" src="../img/alohaeats/mapPage.png" alt="no img found">
-<img class="img-fluid" src="../img/alohaeats/foodList.png" alt="no img found">
+<img class="img-fluid" src="../img/alohaeats/availableNow.png">
+<img class="img-fluid" src="../img/alohaeats/mapPage.png">
+<img class="img-fluid" src="../img/alohaeats/foodList.png">
