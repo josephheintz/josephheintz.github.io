@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/alohaeats/alohaEats.png
 title: "Aloha Eats Project"
-date: 2023-12-14
+date: 2023
 published: true
 labels:
   - Meteor
@@ -12,7 +12,7 @@ labels:
 summary: "Creating a web application for students and food vendors on UH Manoa campus."
 ---
 
-<img class="img-fluid" src="../img/alohaeats/alohaEats.png">
+<img class="img-fluid" src="../img/aloha-eats/alohaEats.png" alt="img not found">
 
 ## Overview
 
@@ -33,6 +33,8 @@ I learned a bunch of different things from this project. I learned how to use Me
 
 ### Screenshots
 
-<img class="img-fluid" src="../img/alohaeats/availableNow.png">
-<img class="img-fluid" src="../img/alohaeats/mapPage.png">
-<img class="img-fluid" src="../img/alohaeats/foodList.png">
+<div class="text-center p-4">
+    <img class="img-fluid" src="../img/aloha-eats/availableNow.png" alt="img not found">
+    <img class="img-fluid" src="../img/aloha-eats/mapPage.png" alt="img not found">
+    <img class="img-fluid" src="../img/aloha-eats/foodList.png" alt="img not found">
+</div>
