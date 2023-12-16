@@ -8,7 +8,7 @@ published: true
 labels:
   - Meteor
   - React
-  -Javascript
+  - Javascript
 summary: "Creating a web application for students and food vendors on UH Manoa campus."
 ---
 
@@ -23,9 +23,9 @@ A link to the application's project page: [Aloha Eats](https://manoamunchies.git
 ## Contributions
 
 My contributions to this project are the following:
-Create and keep project page up to date
-Made the map page and integrated Google Maps API onto it
-Created the Map and LocationPin components
+* Create and keep project page up to date
+* Made the map page and integrated Google Maps API onto it
+* Created the Map and LocationPin components
 
 ## What I Learned
 
