@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/josephheintz.png",
     "email": "heintzj@hawaii.edu",
-    "phone": "808-283-8443",
+    "phone": "",
     "website": "https://josephheintz.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -16,16 +16,17 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Video Games" },
-    { "name": "Volleyball" }
+    { "name": "Volleyball" },
+    { "name": "Exercising" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C++", "Java", "Javascript" ]
+      "keywords": [ "C++", "Java", "Javascript", "HTML/CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 10/11", "Git/GitHub" ]
+      "keywords": [ "Windows 10/11", "Git/GitHub", "IntelliJ Idea" ]
     }
   ],
   "education": [
@@ -49,7 +50,8 @@
       "summary": "Provided customer service",
       "highlights": [
         "Helped customers with their needs and projects",
-        "Licensed with several different machines to perform stocking duties"
+        "Licensed with several different machines to perform stocking duties",
+        "Kept department clean and well organized in conjunction with coworkers and managers"
       ]
     },
     {
@@ -61,28 +63,53 @@
       "summary": "Take-out restaurant during quarantine times",
       "highlights": [
         "Had to multitask and balance plating, meal prep, and cooking tasks",
-        "Learned a lot of new things quick to perform my job sufficiently"
+        "Learned a lot of new things quick to perform my job sufficiently",
+        "Coordinated with coworkers to get quality food out to customers quickly and smoothly"
+      ]
+    },
+    {
+      "company": "Kalei's Lunchbox",
+      "position": "Meal Prep/Dishwasher",
+      "website": "",
+      "startDate": "2023-05-29",
+      "endDate": "2023-08-13",
+      "summary": "Did meal prep and washed dishes at the Kalei's Pukalani restaurant",
+      "highlights": [
+        "Worked with several coworkers in a very small work space while managing different tasks",
+        "Helped cook food for first responders during the Lahaina fire"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Kalei's Lunchbox",
+      "organization": "Kaheawa Wind Power",
       "website": "",
       "position": "Meal Prep/Dishwasher",
-      "startDate": "2023-05-29",
-      "endDate": "2023-08-13",
-      "summary": "Helped with meal prep and washing dishes at the Kalei's Pukalani restaurant",
+      "startDate": "2016-11-06",
+      "endDate": "2016-11-07",
+      "summary": "Helped with a massive cleanup at the windmills on the West Maui Mountains",
       "highlights": [
-        "Worked with several different coworkers in a very small work space while managing different tasks",
-        "Helped cook food for first responders during the Lahaina fire"
+        "Participated in cleaning several sites and removing an invasive species of plant called Fireweed",
+        "Attended this event with my Mother and employees of Ka'anapali Ocean Resort"
+      ]
+    },
+    {
+      "organization": "King Kekaulike High School",
+      "website": "",
+      "position": "Assistant Volleyball Coach",
+      "startDate": "2022-02-18",
+      "endDate": "2022-05-10",
+      "summary": "Assisted Head Coach with various tasks",
+      "highlights": [
+        "Ran drills with the team and occasionally trained specific individuals' skills",
+        "Chaperoned the team during games and tournaments as well as help with team decisions"
       ]
     }
   ],
   "awards": [
     {
       "title": "Biliteracy Seal in Japanese",
-      "date": "2019-Present",
+      "date": "2019-05-24",
       "awarder": "State of Hawaii",
       "summary": "Awarded to students that pass the Hawaii State Biliteracy test, deeming the student biliterate in Japanese"
     }
