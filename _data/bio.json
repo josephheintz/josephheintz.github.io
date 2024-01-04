@@ -34,7 +34,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2023-01-12",
+      "startDate": "2023/01/12",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,8 +45,8 @@
       "company": "Lowes",
       "position": "Customer Sales Associate",
       "website": "",
-      "startDate": "2021-06-10",
-      "endDate": "2022-10-18",
+      "startDate": "2021/06/10",
+      "endDate": "2022/10/18",
       "summary": "Provided customer service",
       "highlights": [
         "Helped customers with their needs and projects",
@@ -58,8 +58,8 @@
       "company": "Only Ono BBQ",
       "position": "Cook/Meal-prep",
       "website": "",
-      "startDate": "2020-05-09",
-      "endDate": "2021-06-15",
+      "startDate": "2020/05/09",
+      "endDate": "2021/06/15",
       "summary": "Take-out restaurant during quarantine times",
       "highlights": [
         "Had to multitask and balance plating, meal prep, and cooking tasks",
@@ -71,8 +71,8 @@
       "company": "Kalei's Lunchbox",
       "position": "Meal Prep/Dishwasher",
       "website": "",
-      "startDate": "2023-05-29",
-      "endDate": "2023-08-13",
+      "startDate": "2023/05/29",
+      "endDate": "2023/08/13",
       "summary": "Did meal prep and washed dishes at the Kalei's Pukalani restaurant",
       "highlights": [
         "Worked with several coworkers in a very small work space while managing different tasks",
@@ -84,9 +84,9 @@
     {
       "organization": "Kaheawa Wind Power",
       "website": "",
-      "position": "Meal Prep/Dishwasher",
-      "startDate": "2016-11-06",
-      "endDate": "2016-11-07",
+      "position": "Volunteer",
+      "startDate": "2016/11/06",
+      "endDate": "2016/11/07",
       "summary": "Helped with a massive cleanup at the windmills on the West Maui Mountains",
       "highlights": [
         "Participated in cleaning several sites and removing an invasive species of plant called Fireweed",
@@ -97,8 +97,8 @@
       "organization": "King Kekaulike High School",
       "website": "",
       "position": "Assistant Boys Volleyball Coach",
-      "startDate": "2022-02-18",
-      "endDate": "2022-05-10",
+      "startDate": "2022/02/18",
+      "endDate": "2022/05/10",
       "summary": "Assisted Head Coach with various tasks",
       "highlights": [
         "Ran drills with the team and occasionally trained specific individuals' skills",
@@ -109,7 +109,7 @@
   "awards": [
     {
       "title": "Biliteracy Seal in Japanese",
-      "date": "2019-05-24",
+      "date": "2019/05/24",
       "awarder": "State of Hawaii",
       "summary": "Awarded to students that pass the Hawaii State Biliteracy test, deeming the student biliterate in Japanese"
     }
