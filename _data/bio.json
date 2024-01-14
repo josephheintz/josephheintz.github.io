@@ -31,11 +31,20 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring 2025)",
       "studyType": "B.S.",
       "startDate": "2023/01/12",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii Maui College, Kahului, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2020/08/12",
+      "endDate": "2022/12/15",
       "courses": [
       ]
     }
