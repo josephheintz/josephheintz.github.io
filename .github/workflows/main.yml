@@ -16,9 +16,9 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-        continue-on-error: true  # Continue even if the cache is not found
-      - run: gem update --system  # Update RubyGems to the latest version
-      - run: bundle install  # Install gems
+        continue-on-error: true
+      - run: sudo apt-get update && sudo apt-get install -y ruby-full  # Ensure the latest Ruby and RubyGems
+      - run: bundle install
       - uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\bio.json$"
