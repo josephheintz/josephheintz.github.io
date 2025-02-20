@@ -19,7 +19,8 @@ jobs:
       - uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\bio.json$"
-      - uses: helaili/jekyll-action@2.5.0
+      - name: Build and Deploy
+        uses: helaili/jekyll-action@2.5.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
