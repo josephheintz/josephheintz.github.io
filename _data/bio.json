@@ -6,7 +6,7 @@
     "email": "heintzj@hawaii.edu",
     "phone": "",
     "website": "https://josephheintz.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "Graduated with a B.S. in Computer Science from the University of Hawaii at Manoa, Fall 2025.",
     "location": { "address": "2563 Dole St", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "josephheintz", "url": "http://github.com/josephheintz" },
@@ -14,28 +14,25 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Video Games" },
-    { "name": "Volleyball" },
-    { "name": "Exercising" }
+    { "name": "Software Engineering" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C/C++", "Java", "Javascript", "HTML/CSS", "Bootstrap 5", "React JS", "Meteor", "Node.js", "Python" ]
+      "keywords": [ "C/C++", "Java", "Javascript/TypeScript", "HTML/CSS", "Bootstrap 5", "React JS", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 10/11", "Git/GitHub", "IntelliJ Idea" ]
+      "keywords": [ "Windows 10/11", "Git/GitHub", "VS Code" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring 2025)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2023/01/12",
-      "endDate": "Present",
+      "endDate": "2025/12/20",
       "courses": [
       ]
     },
@@ -50,6 +47,19 @@
     }
   ],
   "work": [
+    {
+      "company": "Information Technology Services at UH Manoa",
+      "position": "IT Help Desk Consultant",
+      "website": "",
+      "startDate": "2024/02/21",
+      "endDate": "2025/12/17",
+      "summary": "Provided IT support to students, faculty, and staff at the University of Hawaii at Manoa",
+      "highlights": [
+        "Assisted with account recovery, password resets, LMS troubleshooting and other general IT issues",
+        "Interacted with customers over the phone, and through email tickets to provide support and resolve issues",
+        "Actively collbarorated with coworkers and supervisors when necessary for complex issues or higher-level access requests"
+      ]
+    },
     {
       "company": "Lowes",
       "position": "Customer Sales Associate",
