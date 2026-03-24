@@ -10,15 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/cache@v3
+      - uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-        continue-on-error: true
-      - run: sudo apt-get update && sudo apt-get install -y ruby-full  # Ensure the latest Ruby and RubyGems
-      - run: bundle install
+          bundler-cache: true
       - uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\bio.json$"

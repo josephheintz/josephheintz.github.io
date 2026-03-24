@@ -4,7 +4,7 @@ type: essay
 title: "Reflection on Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-22
-published: true
+published: false
 labels:
   - Software Engineering
   - Javascript
