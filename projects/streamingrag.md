@@ -45,5 +45,5 @@ The project includes the following core capabilities:
 StreamingRAG demonstrates a practical combined architecture rather than two disconnected efforts. It integrates computer-vision signals, temporal reasoning, and retrieval-grounded generation into one iterative pipeline, with car-crash detection in sample footage as a concrete progress milestone.
 
 <div class="text-center p-4">
-  <img class="img-fluid" src="../img/streamingrag/streamingrag-poster.png" alt="StreamingRAG Poster" style="max-width: 420px; width: 100%;">
+  <img class="img-fluid" src="../img/streamingrag/streamingrag-poster.png" alt="StreamingRAG Poster" style="max-width: 700px; width: 100%;">
 </div>
