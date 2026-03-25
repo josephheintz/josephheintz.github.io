@@ -14,7 +14,7 @@ labels:
 summary: "An AI-powered college pathway advisor providing personalized degree roadmaps with direct access to real courses and labor market insights."
 ---
 
-<img class="img-fluid" src="../img/pathfinity-landing" alt="Pathfinity Landing Page" style="max-width: 700px; width: 100%;">
+<img class="img-fluid" src="../img/pathfinity-landing.png" alt="Pathfinity Landing Page" style="max-width: 700px; width: 100%;">
 
 ## Overview
 
