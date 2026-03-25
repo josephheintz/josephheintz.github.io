@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/freshkeep/sign-in-2.jpeg
+image: img/freshkeep/sign-in-2.png
 title: "FreshkeepUH Home Pantry Management App"
 date: 2025
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "Building a full-stack pantry and food freshness management app with a multi-developer team."
 ---
 
-<img class="img-fluid" src="../img/freshkeep/sign-in-2.jpeg" alt="FreshKeep sign in page" style="max-width: 700px; width: 100%;">
+<img class="img-fluid" src="../img/freshkeep/sign-in-2.png" alt="FreshKeep sign in page" style="max-width: 700px; width: 100%;">
 
 ## Overview
 
