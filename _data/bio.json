@@ -19,16 +19,16 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C/C++", "Java", "Javascript/TypeScript", "HTML/CSS", "Bootstrap 5", "React JS", "Python" ]
+      "keywords": [ "C/C++", "Java", "Javascript/TypeScript", "HTML/CSS", "Bootstrap 5", "React", "Python", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 10/11", "Git/GitHub", "VS Code" ]
+      "keywords": [ "Windows 10/11", "Git/GitHub", "VS Code", "Docker" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa",
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2023/01/12",
@@ -37,9 +37,9 @@
       ]
     },
     {
-      "institution": "University of Hawaii Maui College, Kahului, HI",
-      "area": "Liberal Arts",
-      "studyType": "A.A.",
+      "institution": "University of Hawaii Maui College",
+      "area": "Undeclared",
+      "studyType": "",
       "startDate": "2020/08/12",
       "endDate": "2022/12/15",
       "courses": [
