@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/freshkeep/sign_in_page.jpeg
+image: img/freshkeep/sign-in-2.jpeg
 title: "FreshkeepUH Home Pantry Management App"
 date: 2025
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "Building a full-stack pantry and food freshness management app with a multi-developer team."
 ---
 
-<img class="img-fluid" src="../img/freshkeep/sign_in_page.jpeg" alt="FreshKeep sign in page" style="max-width: 700px; width: 100%;">
+<img class="img-fluid" src="../img/freshkeep/sign-in-2.jpeg" alt="FreshKeep sign in page" style="max-width: 700px; width: 100%;">
 
 ## Overview
 
@@ -41,17 +41,16 @@ FreshKeep demonstrates how a student team can build and iterate on a production-
 ### Screenshots
 
 <div class="text-center p-4">
-  <img class="img-fluid" src="../img/freshkeep/dashboard_page.jpeg" alt="FreshKeep dashboard page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/locations_page.jpeg" alt="FreshKeep locations page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/shopping_list_page.jpeg" alt="FreshKeep shopping list page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/sign_in_page.jpeg" alt="FreshKeep sign in page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/sign_up_page.jpeg" alt="FreshKeep sign up page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/forgot_password_page.jpeg" alt="FreshKeep forgot password page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/change_password_page.jpeg" alt="FreshKeep change password page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/settings_page.jpeg" alt="FreshKeep settings page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/stores_page.jpeg" alt="FreshKeep stores page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/store_page.jpeg" alt="FreshKeep store page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/store_page_edit.jpeg" alt="FreshKeep store page edit mode" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/recipes_page.jpeg" alt="FreshKeep recipes page" style="max-width: 420px; width: 100%;">
-  <img class="img-fluid" src="../img/freshkeep/recipe_page.jpeg" alt="FreshKeep recipe page" style="max-width: 420px; width: 100%;">
+  <img class="img-fluid" src="../img/freshkeep/dashboard_page.jpeg" alt="FreshKeep dashboard page" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/locations_page.jpeg" alt="FreshKeep locations page" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/shopping_list_page.jpeg" alt="FreshKeep shopping list page" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/sign_up_page.jpeg" alt="FreshKeep sign up page" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/forgot_password_page.jpeg" alt="FreshKeep forgot password page" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/change_password_page.jpeg" alt="FreshKeep change password page" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/settings_page.jpeg" alt="FreshKeep settings page" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/stores_page.jpeg" alt="FreshKeep stores page" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/store_page.jpeg" alt="FreshKeep store page" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/store_page_edit.jpeg" alt="FreshKeep store page edit mode" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/recipes_page.jpeg" alt="FreshKeep recipes page" style="max-width: 420px; width: 100%; margin: 8px;">
+  <img class="img-fluid" src="../img/freshkeep/recipe_page.jpeg" alt="FreshKeep recipe page" style="max-width: 420px; width: 100%; margin: 8px;">
 </div>
