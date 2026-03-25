@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Joseph Heintz",
-    "label": "Student",
+    "label": "Comp Sci Major",
     "picture": "https://github.com/josephheintz.png",
-    "email": "heintzj@hawaii.edu",
+    "email": "mauijoseph13@gmail.com",
     "phone": "",
     "website": "https://josephheintz.github.io",
     "summary": "Graduated with a B.S. in Computer Science from the University of Hawaii at Manoa, Fall 2025.",
@@ -14,7 +14,8 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" }
+    { "name": "Software Engineering" },
+    { "name": "Volleyball" }
   ],
   "skills": [
     {
